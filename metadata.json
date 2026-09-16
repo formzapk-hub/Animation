@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Text Studio",
+  "description": "Create and render beautiful kinetic text animations locally using FFmpeg with real-time editing, local auto-saves, and cloud sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
